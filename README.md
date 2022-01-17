@@ -22,3 +22,5 @@ Kami menambahkan contoh dan template carousel/slider situs web yang lebih berhar
 Korsel atau penggeser situs web, adalah cara efektif untuk menampilkan banyak gambar atau konten dalam satu ruang. Ini tidak hanya membantu dalam menghemat ruang layar, tetapi juga mendorong pengunjung untuk fokus pada konten situs web yang penting dan meningkatkan daya tarik visual secara keseluruhan secara efektif.
 Namun, merancang carousel situs web yang baik tidaklah mudah. Terkadang, jika desain gagal, itu dapat memengaruhi UX dan merusak situs web Anda.
 
+<a href="https://labkom99.com">Labkom99</a>
+
